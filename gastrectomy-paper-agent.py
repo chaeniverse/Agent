@@ -190,12 +190,7 @@ source: <PDF 파일명 또는 URL>
 **10. 한 줄 비평 / 한계**
 - 우리 데이터(위절제술)에 그대로 적용했을 때 우려되는 점 한 줄.
 
-**11. 다음 액션 (본 프로젝트 기준)** *(딥러닝/방법론·데이터셋 논문일 때)*
-- 이 논문 읽고 **이번 주에 시도해 볼 것** 1~3 bullet.
-    예: "TeCNO official repo clone → Cholec80 reproduce 한번 돌려보기"
-    예: "우리 7-phase 정의안에 이 논문의 boundary 정의 방식 반영 검토"
-
-**12. References / 더 볼 것**
+**11. References / 더 볼 것**
 - 본문에서 자주 인용된 reference 중 실제로 더 찾아볼 만한 것 1~3개.
 - DOI/arXiv ID 가 보이면 같이.
 
